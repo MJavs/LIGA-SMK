@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+
+    
+    
+    
+}
+
+
+.navbar{
+    width: 100%;
+    background-color: white;
+    height: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.content{
+    
+}
+
+.svg-srrow{
+    
+}
+
+.content a{
+    color: black;
+    margin-right: 20px;
+
+}
+
+.wrapper-navbar{
+    display: flex;
+    align-items: center;
+    margin: 14px;
+    list-style: none;
+    margin-left: 400px;
+    
+
+}
+
+svg{
+    margin-right: 12px ;
+}
+
+.wrapper-navbar a{
+    margin-right: 14px;
+    
+}
+
+.content img{
+    align-items: center
+    ;
+    margin-top: -14px;
+    margin-right: 400px;
+}
+
+.logo img{
+    width: 120px;
+}
+
+/* hero */
+
+.hero{
+    background-color: #e5eafb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.title h1{
+    line-height: 50px;
+    font-size: 53px;
+}
+.subtitle{
+    margin-top: 20px;
+    color: gray;
+    margin-right: 100px;
+}
+
+.image img{
+    width: 370px;
+}
+
+.btn1{
+    margin-top: 60px;
+    background-color: blue;
+    color: white;
+    width: 230px;
+    cursor: pointer;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+
+.btn1 p{
+    color: white;
+    text-align: center;
+    margin-left: 12px;
+    padding-right: 100px;
+    
+}
+
+/* FOOTER **********/
+
+.footer{
+
+    width: 100%;
+    height: 100px;
+
+    background-color: rgb(255, 166, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-footer{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.logo1{
+    background-image: url(assets/icon-online-education.svg);
+    width: 45px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.logo2{
+    background-image: url(/assets/icon-globe-handphone.svg);
+    width: 26px;
+    height: 36px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.logo3{
+    background-image: url(/assets/icon-online-education-laptop.svg);
+    width: 45px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.sentences{
+    text-align: justify;
+    margin-left: 13px;
+    line-height: 1.3;
+    
+}
+
+.p-sent{
+    font-size: 12px;
+
+
+}
